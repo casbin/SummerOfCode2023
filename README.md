@@ -1,6 +1,8 @@
-# Google Summer Of Code 2022 for Casbin
+# Google Summer Of Code 2023 for Casbin
 
-Note: There are some significant changes in GSoC 2022 like expanding eligibility and multiple sizes of projects, see details at GSoC official site: https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html
+Note: There are some significant changes starting from GSoC 2022 like expanding eligibility and multiple sizes of projects, see details at GSoC official site: https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html
+
+Get ready for Google Summer of Code 2023! https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html
 
 ## What is Google Summer Of Code?
 
@@ -19,9 +21,9 @@ The student will be more likely selected if he/she:
 
 ## Get started
 
-1. Choose an idea from our list: https://github.com/casbin/SummerOfCode2022
+1. Choose an idea from our list: https://github.com/casbin/SummerOfCode2023
 2. Send your resume/CV in PDF to: admin@casbin.org
-3. Do a self-introduction in: https://gitter.im/casbin/gsoc
+3. Do a self-introduction in: https://discord.com/invite/PD9g8wE6X9
 4. Get familiar with the existing code, try to solve opened issues for your chosen idea's repo before & after application deadline.
 5. If you have questions, you can ask the mentor of the idea via GitHub or Gitter.
 6. Submit your proposal in [GSoC official site](https://summerofcode.withgoogle.com/). The deadline is TBD.
