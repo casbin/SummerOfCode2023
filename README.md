@@ -23,9 +23,9 @@ The student will be more likely selected if he/she:
 
 1. Choose an idea from our list: https://github.com/casbin/SummerOfCode2023
 2. Send your resume/CV in PDF to: admin@casbin.org
-3. Do a self-introduction in: https://discord.com/invite/PD9g8wE6X9
+3. Do a self-introduction in: https://discord.gg/PD9g8wE6X9
 4. Get familiar with the existing code, try to solve opened issues for your chosen idea's repo before & after application deadline.
-5. If you have questions, you can ask the mentor of the idea via GitHub or Gitter.
+5. If you have questions, you can ask the mentor of the idea via GitHub or [Discord](https://discord.gg/PD9g8wE6X9).
 6. Submit your proposal in [GSoC official site](https://summerofcode.withgoogle.com/). The deadline is TBD.
 
 ## Ideas
